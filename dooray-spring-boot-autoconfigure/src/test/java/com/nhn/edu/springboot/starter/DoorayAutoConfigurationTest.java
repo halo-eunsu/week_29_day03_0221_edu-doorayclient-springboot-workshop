@@ -1,7 +1,7 @@
 package com.nhn.edu.springboot.starter;
 
 import com.nhn.dooray.client.DoorayHookSender;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 import org.springframework.boot.autoconfigure.AutoConfigurations;
 import org.springframework.boot.test.context.runner.ApplicationContextRunner;
 import org.springframework.web.client.RestTemplate;
