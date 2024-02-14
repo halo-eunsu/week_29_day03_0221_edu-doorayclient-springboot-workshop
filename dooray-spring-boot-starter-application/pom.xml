@@ -32,8 +32,8 @@
             </exclusions>
         </dependency>
 
-        <!-- TODO (7) dooray-spring-boot-starter:2.7.0-SNAPSHOT dependency 를 추가해 주세요. -->
-        <!-- TODO (7) dooray-spring-boot-starter：2.7.0-SNAPSHOT dependencyを追加してください。 -->
+        <!-- TODO (7) dooray-spring-boot-starter:3.2.2 dependency 를 추가해 주세요. -->
+        <!-- TODO (7) dooray-spring-boot-starter：3.2.2 dependencyを追加してください。 -->
 
     </dependencies>
 
